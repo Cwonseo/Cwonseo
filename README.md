@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![c](https://img.shields.io/badge/-C-orange)
-
+!https://img.shields.io/badge/-JAVA-green
 <!--
 **Cwonseo/Cwonseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
