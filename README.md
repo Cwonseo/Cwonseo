@@ -1,4 +1,4 @@
-### Hi there 👋
+### THIS IS WONSEO 👋
 
 ![c](https://img.shields.io/badge/-C-orange)
 ![java](https://img.shields.io/badge/-JAVA-green)
