@@ -17,7 +17,8 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwonseo&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cwonseo&count_private=true&show_icons=true&theme=graywhite&hide_title=true&layout=compact) 
 
 <!--
 **Cwonseo/Cwonseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
